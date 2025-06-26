@@ -24,7 +24,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3159.jpg"
+                src="images/portfolio/IMG_3159.webp"
                 alt="Concert crowd"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -39,7 +39,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3177.jpg"
+                src="images/portfolio/IMG_3177.webp"
                 alt="Team building"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -54,7 +54,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3190.jpg"
+                src="images/portfolio/IMG_3190.webp"
                 alt="Office meeting"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -69,7 +69,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3235.jpg"
+                src="images/portfolio/IMG_3235.webp"
                 alt="Team celebration"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -84,7 +84,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3346.jpg"
+                src="images/portfolio/IMG_3346.webp"
                 alt="Conference"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -99,7 +99,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3452.jpg"
+                src="images/portfolio/IMG_3452.webp"
                 alt="Volunteering"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -114,7 +114,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3481.jpg"
+                src="images/portfolio/IMG_3481.webp"
                 alt="Award ceremony"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
@@ -129,7 +129,7 @@ const Portfolio = () => {
 
             <div className="group relative overflow-hidden rounded-lg aspect-square">
               <img
-                src="images/portfolio/IMG_3491.jpg"
+                src="images/portfolio/IMG_3491.webp"
                 alt="Office party"
                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
