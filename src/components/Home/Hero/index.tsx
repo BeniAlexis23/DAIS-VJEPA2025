@@ -1,5 +1,6 @@
 "use client";
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import CardSlider from "./slider";
 import { getImagePrefix } from "@/utils/utils";
@@ -34,12 +35,12 @@ const Hero = () => {
               <span className="text-primary">Académicos</span>
             </h1>
             <div className="flex items-center md:justify-start justify-center gap-8">
-              <button className="bg-primary border border-primary rounded-lg text-21 font-medium hover:bg-transparent hover:text-primary text-darkmode py-2 px-7 z-50">
-                Inscripción
-              </button>
-              <button className="bg-transparent border border-primary rounded-lg text-21 font-medium hover:bg-primary hover:text-darkmode text-primary py-2 px-7">
+              <Link href={"https://drive.google.com/file/d/1QR3EZHhhIVib2lFS0Nhpt8ZsK7upqN6v/view?usp=sharing"} target="_blank" className="bg-transparent border border-primary rounded-lg text-21 font-medium hover:bg-primary hover:text-darkmode text-primary py-2 px-7">
                 Bases
-              </button>
+              </Link>
+              <Link href={"/#upgrade"} className="bg-primary border border-primary rounded-lg text-21 font-medium hover:bg-transparent hover:text-primary text-darkmode py-2 px-7 z-50">
+                Registro
+              </Link>
             </div>
           </motion.div>
 
