@@ -13,7 +13,6 @@ const Footer: FC = () => {
           <div className="lg:col-span-4 md:col-span-6 col-span-6">
             <div className="flex items-center gap-4">
               <Logo />
-              <h1 className="font-extrabold text-3xl">DAIS - FI</h1>
             </div>
             <div className="flex gap-6 items-center mt-8">
               <Link href="https://www.facebook.com/FIUNDC" target="_blank" className="group">

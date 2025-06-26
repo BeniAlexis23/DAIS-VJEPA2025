@@ -6,11 +6,11 @@ const Logo: React.FC = () => {
   return (
     <Link href="/" className="flex items-center h-full">
       <Image
-        src={`${getImagePrefix()}images/logo/es-undc.png`}
+        src={`${getImagePrefix()}images/logo/logo-dais.png`}
         alt="logo"
         width={120}
         height={40}
-        className="h-12 w-auto" // puedes ajustar h-10 según la altura del navbar
+        className="h-12 w-auto lg:scale-150" // antes h-12
         quality={100}
         priority
       />
