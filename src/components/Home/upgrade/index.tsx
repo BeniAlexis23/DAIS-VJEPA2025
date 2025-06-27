@@ -23,9 +23,6 @@ const Upgrade = () => {
               (Tener cuenta que después de la fecha y hora establecida, no se aceptará más inscripciones.)
             </p>
             <div className="flex items-center md:justify-start justify-center gap-8">
-              <Link href={"https://drive.google.com/file/d/1QR3EZHhhIVib2lFS0Nhpt8ZsK7upqN6v/view?usp=sharing"} target="_blank" className="bg-transparent border border-primary rounded-lg text-21 font-medium hover:bg-primary hover:text-darkmode text-primary py-2 px-7">
-                Bases
-              </Link>
               <Link href={"/register"} className="bg-primary border border-primary rounded-lg text-21 font-medium hover:bg-transparent hover:text-primary text-darkmode py-2 px-7 z-50">
                 Formulario
               </Link>
